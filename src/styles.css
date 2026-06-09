@@ -1,0 +1,133 @@
+body {
+  background-color: rgb(253, 241, 108);
+  font-family: "Work Sans", serif;
+  font-size: 20px;
+}
+
+h1 {
+  color: #5a6275;
+  font-size: 24px;
+  font-weight: lighter;
+  margin-top: 30px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  color: rgb(20, 105, 210);
+  font-size: 36px;
+  font-weight: bolder;
+}
+div .form-control {
+  font-size: 12px;
+}
+.weather-app-wrapper {
+  max-width: 1000px;
+  margin: 55px auto;
+  background-image: -webkit-linear-gradient(
+    top,
+    rgb(69, 193, 231),
+    rgb(83, 231, 69)
+  );
+  border: 1px solid rgb(69, 220, 231);
+  border-radius: 15px;
+  color: #5a6275;
+}
+.weather-app {
+  padding-left: 100px;
+}
+.buttonsearch {
+  font-size: 12px;
+  color: #5a6275;
+}
+.buttonperiod {
+  color: rgb(20, 105, 210);
+  font-size: 14px;
+}
+.date {
+  color: rgb(20, 105, 210);
+}
+
+.img {
+  margin: 0;
+  padding: 0;
+  width: 65px;
+  height: 55px;
+}
+.daytoday {
+  color: rgb(20, 105, 210);
+}
+.timetoday {
+  font-size: 34px;
+}
+.gradtoday {
+  font-size: 34px;
+  color: rgb(20, 105, 210);
+}
+.smoll-letter {
+  position: relative;
+  top: -20px;
+  left: -5px;
+  font-size: 14px;
+  color: rgb(20, 105, 210);
+}
+.humidity {
+  color: rgb(20, 105, 210);
+}
+.wind {
+  color: rgb(20, 105, 210);
+}
+.col-1 {
+  font-size: 13px;
+  text-align: center;
+}
+.link_owner {
+  font-size: 10px;
+  margin-top: -55px;
+  margin-left: 150px;
+}
+.see_info {
+  text-decoration: none;
+}
+.see_info:hover {
+  text-decoration: underline;
+}
+.active {
+  color: #5a6275;
+  cursor: default;
+  text-decoration: none;
+}
+.active:hover {
+  text-decoration: none;
+}
+.f-link {
+  text-decoration: none;
+}
+.f-link:hover {
+  text-decoration: underline;
+}
+.weather-forecast {
+  padding: 0 90px 20px 0;
+  margin: 70px 0 30px -10px;
+  text-align: center;
+}
+.weather-forecast-date {
+  font-size: 18px;
+  opacity: 0.7;
+}
+.forecast-temp-min {
+  opacity: 0.7;
+}
+.forecast-temp {
+  font-size: 16px;
+  color: rgb(20, 105, 210);
+}
+.current-location {
+  text-align: right;
+}
