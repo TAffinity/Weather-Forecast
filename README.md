@@ -58,7 +58,3 @@ This project uses the OpenWeather API.
 ---
 
 <img width="823" height="438" alt="image" src="https://github.com/user-attachments/assets/21409007-13c2-4c74-aac9-7b00731c6af3" />
-* Weather maps integration
-* Improved animations and UI
-
-⭐ Feel free to explore the code and leave a star if you like the project.
