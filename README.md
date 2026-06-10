@@ -42,20 +42,6 @@ The application displays:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/TAffinity/HomeWorkWeek6.git
-```
-
-2. Open the project folder.
-
-3. Launch `index.html` in your browser.
-
----
-
 ## 🔑 API Configuration
 
 This project uses the OpenWeather API.
@@ -82,6 +68,9 @@ To use your own API key:
 ## 🚀 Future Improvements
 
 * Temperature unit switch (°C / °F)
+
+<img width="823" height="438" alt="image" src="https://github.com/user-attachments/assets/21409007-13c2-4c74-aac9-7b00731c6af3" />
+
 * Dark mode
 * Hourly forecast
 * Weather maps integration
