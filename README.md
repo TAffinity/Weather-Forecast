@@ -11,7 +11,6 @@ A responsive weather application built with **HTML**, **CSS**, and **JavaScript*
 * 🌡️ Current temperature in Celsius
 * 💧 Humidity information
 * 🌬️ Wind speed data
-* 🌤️ Dynamic weather icons
 * 📅 Current date and time display
 * 📱 Responsive layout using Bootstrap
 
@@ -38,19 +37,12 @@ The application displays:
 * Humidity
 * Wind speed
 * Weather description
-* Multi-day forecast
 
 ---
 
 ## 🔑 API Configuration
 
 This project uses the OpenWeather API.
-
-To use your own API key:
-
-1. Create an account at https://openweathermap.org
-2. Generate an API key.
-3. Replace the existing key in `app.js`.
 
 ---
 
@@ -65,14 +57,7 @@ To use your own API key:
 
 ---
 
-## 🚀 Future Improvements
-
-* Temperature unit switch (°C / °F)
-
 <img width="823" height="438" alt="image" src="https://github.com/user-attachments/assets/21409007-13c2-4c74-aac9-7b00731c6af3" />
-
-* Dark mode
-* Hourly forecast
 * Weather maps integration
 * Improved animations and UI
 
